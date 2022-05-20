@@ -41,7 +41,7 @@
 <!-- ![Kittanat's github stats](https://github-readme-stats.vercel.app/api?username=bluedev69&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/bluedev69/github-readme-stats) -->
 
-<a href=""><img height="160px" src="https://github-readme-stats.vercel.app/api?username=bluedev69&show_icons=true&theme=tokyonight" /><!-- wi*quL3fcV --><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" /></a>
+<a href=""><img height="180px" src="https://github-readme-stats.vercel.app/api?username=bluedev69&show_icons=true&theme=tokyonight" /><!-- wi*quL3fcV --><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" /></a>
 
 <!--START_SECTION:waka-->
 
