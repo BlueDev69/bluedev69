@@ -2,6 +2,13 @@
 
 
 <p>Welcome to my page! </br> I'm Kittanat, Fullstack developer from <b>Nonthaburi, Thailand</b>, currently living in <b>Nonthaburi</b>. </p>
+
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+	  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Develop+web;System+administration+and+design;Always+learning+new+things)](https://git.io/typing-svg">
+<!-- 	</a> -->
+</p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -25,6 +32,176 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wizardforcel">
+        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
+      </a>
+      <br />
+      <a href="https://github.com/wizardforcel">布客飞龙</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gaocegege">
+        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
+      </a>
+      <br />
+      <a href="https://github.com/gaocegege">Ce Gao</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/webpointdev">
+        <img src="https://avatars2.githubusercontent.com/u/88071912" width="100px;" alt="webpointdev"/>
+      </a>
+      <br />
+      <a href="https://github.com/webpointdev">New Dragon Warrior</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mashirozx">
+        <img src="https://avatars2.githubusercontent.com/u/16148054" width="100px;" alt="mashirozx"/>
+      </a>
+      <br />
+      <a href="https://github.com/mashirozx">Mashiro</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lzwjava">
+        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
+      </a>
+      <br />
+      <a href="https://github.com/lzwjava">lzwjava</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ir1d">
+        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ir1d">Dejia Xu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hua1995116">
+        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
+      </a>
+      <br />
+      <a href="https://github.com/hua1995116">蓝色的秋风</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zTrix">
+        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
+      </a>
+      <br />
+      <a href="https://github.com/zTrix">Wenlei Zhu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Trumeet">
+        <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
+      </a>
+      <br />
+      <a href="https://github.com/Trumeet">Yuuta Liang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lowlighter">
+        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      </a>
+      <br />
+      <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gdut-yy">
+        <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
+      </a>
+      <br />
+      <a href="https://github.com/gdut-yy">张逸扬</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fantasy9527">
+        <img src="https://avatars2.githubusercontent.com/u/9129438" width="100px;" alt="Fantasy9527"/>
+      </a>
+      <br />
+      <a href="https://github.com/Fantasy9527">No.142857</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/guofei9987">
+        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
+      </a>
+      <br />
+      <a href="https://github.com/guofei9987">郭飞</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tengge1">
+        <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
+      </a>
+      <br />
+      <a href="https://github.com/tengge1">tengge1</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/EndlessCheng">
+        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
+      </a>
+      <br />
+      <a href="https://github.com/EndlessCheng">灵茶山艾府（0x3F）</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cubercsl">
+        <img src="https://avatars2.githubusercontent.com/u/22931465" width="100px;" alt="cubercsl"/>
+      </a>
+      <br />
+      <a href="https://github.com/cubercsl">cubercsl</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xtlsoft">
+        <img src="https://avatars2.githubusercontent.com/u/16159830" width="100px;" alt="xtlsoft"/>
+      </a>
+      <br />
+      <a href="https://github.com/xtlsoft">Tianle Xu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Konano">
+        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
+      </a>
+      <br />
+      <a href="https://github.com/Konano">Nano</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thanhtoan1196">
+        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+      </a>
+      <br />
+      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WBGlIl">
+        <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
+      </a>
+      <br />
+      <a href="https://github.com/WBGlIl">WBGlIl</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Clansty">
+        <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="Clansty"/>
+      </a>
+      <br />
+      <a href="https://github.com/Clansty">凌莞~(=^▽^=)</a>
+    </td>
+  </tr>
+</table>
+
+<!--START_SECTION:waka-->
+
+```text
+Markdown             21 hrs 50 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.77 %
+React                10 hrs 14 mins  🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.23 %
+Express & NestJs     7 hrs 49 mins   🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.18 %
+TypeScript           5 hrs 4 mins    🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.55 %
+E-commerce           2 hrs 58 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.00 %
+student              2 hrs 16 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.82 %
+```
+
+<!--END_SECTION:waka-->
+
 <h3>Language</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
