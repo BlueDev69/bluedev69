@@ -38,10 +38,10 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<a href="https://github.com/bluedev69">
-![Kittanat's github stats](https://github-readme-stats.vercel.app/api?username=bluedev69&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/bluedev69/github-readme-stats)
-	</a>
+<!-- ![Kittanat's github stats](https://github-readme-stats.vercel.app/api?username=bluedev69&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/bluedev69/github-readme-stats) -->
+
+<a href=""><img height="137px" src="https://github-readme-stats.vercel.app/api?username=bluedev69&show_icons=true&theme=tokyonight" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /></a>
 
 <!--START_SECTION:waka-->
 
