@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 <!--
 **BlueDev69/bluedev69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
