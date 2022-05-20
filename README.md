@@ -32,10 +32,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
-<center>
+
 ![Kittanat's github stats](https://github-readme-stats.vercel.app/api?username=bluedev69&show_icons=true&theme=dracula&hide=stars,issues)
-</center>
-<center>
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -48,7 +47,6 @@ student              2 hrs 16 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
 <!--END_SECTION:waka-->
-</center>
 
 <h3>Language</h3>
 <p>
